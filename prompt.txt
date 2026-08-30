@@ -1,0 +1,1418 @@
+# MASTER PROMPT
+# GitHub Profile README — EXACT VISUAL DIRECTION
+# ANDHIKA PRATAMA PUTRA
+# Developer RPG Cyberpunk Dashboard
+
+You are an expert GitHub README designer, pixel-art UI designer,
+RPG game UI designer, SVG animator, and developer portfolio architect.
+
+Your task is to create a GitHub PROFILE README for:
+
+ANDHIKA PRATAMA PUTRA
+
+IMPORTANT:
+
+The visual result MUST closely follow the provided visual reference:
+a dense, ultra-detailed, dark cyberpunk pixel-art RPG dashboard.
+
+DO NOT redesign the concept into a normal portfolio.
+
+DO NOT create a simple README with sections stacked vertically.
+
+DO NOT use a generic GitHub profile template.
+
+The target visual composition is:
+
+"ONE LARGE RPG GAME HUD / CHARACTER DASHBOARD"
+
+with many compact panels arranged into a structured dashboard.
+
+The README should feel like:
+
+RPG CHARACTER SCREEN
++
+CYBERPUNK TERMINAL
++
+PIXEL ART
++
+DEVELOPER DASHBOARD
++
+TECHNICAL HOMELAB
++
+UNIVERSITY ADVENTURE
+
+==================================================
+1. PRIMARY VISUAL REFERENCE
+==================================================
+
+Use the provided reference image as the PRIMARY visual direction.
+
+The final README should visually resemble the reference in:
+
+- overall density
+- panel arrangement
+- dark background
+- neon borders
+- pixel-art illustrations
+- compact information cards
+- RPG HUD style
+- cyberpunk atmosphere
+- glowing accents
+- game-like status bars
+- visual hierarchy
+- section placement
+- dashboard composition
+
+The reference should be treated as a DESIGN BLUEPRINT,
+not merely as inspiration.
+
+Do not simplify the layout unnecessarily.
+
+==================================================
+2. OVERALL CANVAS
+==================================================
+
+The visual concept should resemble a very wide game dashboard.
+
+Imagine the README as one giant RPG interface.
+
+Background:
+
+#050816 / deep navy-black
+
+with subtle:
+
+- stars
+- particles
+- cyberpunk city silhouette
+- neon lights
+- dark gradients
+
+All sections should be enclosed inside thin glowing borders.
+
+Use different accent colors for different categories:
+
+CYAN
+= frontend / software
+
+PURPLE
+= AI / university
+
+GREEN
+= completed / active
+
+BLUE
+= cloud / infrastructure
+
+ORANGE
+= achievements / quests
+
+RED
+= cybersecurity
+
+MAGENTA
+= special sections
+
+Do not use random colors.
+
+Maintain a consistent cyberpunk palette.
+
+==================================================
+3. IMPORTANT LAYOUT
+==================================================
+
+The layout MUST follow this approximate structure:
+
+ROW 1 — HERO / PLAYER HEADER
+
+┌──────────────────────┬────────────────────────┬──────────────────────┬─────────────────────────────┐
+│                      │                        │                      │                             │
+│      HERO            │     PLAYER PROFILE     │    PLAYER STATUS     │       CURRENT MISSION       │
+│                      │                        │                      │                             │
+│  ANDHIKA             │      CHARACTER         │     LVL / XP         │       UNIVERSITY ARC        │
+│  PRATAMA PUTRA       │      CLASS             │     HP / ENERGY      │       STATUS IN PROGRESS    │
+│                      │      LOCATION          │     FOCUS            │       CAMPUS PIXEL ART      │
+│  developer identity  │      website/email     │                      │                             │
+│                      │                        │                      │                             │
+└──────────────────────┴────────────────────────┴──────────────────────┴─────────────────────────────┘
+
+
+ROW 2
+
+┌───────────────────────────────┬─────────────────────────────┬──────────────────────────┬─────────────────────┐
+│                               │                             │                          │                     │
+│          ABOUT ME             │       QUEST LOG              │        SKILL TREE         │    TECH INVENTORY    │
+│                               │       PROJECTS               │                          │                     │
+│                               │                             │                          │                     │
+└───────────────────────────────┴─────────────────────────────┴──────────────────────────┴─────────────────────┘
+
+
+ROW 3
+
+┌────────────────────────────────────────────┬───────────────────────┬─────────────────────────────┐
+│                                            │                       │                             │
+│           DEVELOPER JOURNEY                │    EDUCATION WALL     │     ACHIEVEMENT WALL        │
+│                                            │                       │                             │
+│   SMK → TECHNICIAN → NOC → FULLSTACK      │                       │                             │
+│   → CLOUD/AI → UNIVERSITY ARC              │                       │                             │
+│                                            │                       │                             │
+└────────────────────────────────────────────┴───────────────────────┴─────────────────────────────┘
+
+
+ROW 4
+
+┌──────────────────────────────┬──────────────────────────────┬─────────────────────────────────┐
+│                              │                              │                                 │
+│      CAREER QUESTS           │       TRAINING ARC           │       HOMELAB ARCHITECTURE       │
+│                              │                              │                                 │
+└──────────────────────────────┴──────────────────────────────┴─────────────────────────────────┘
+
+
+ROW 5
+
+┌──────────────────────────────────────────┬──────────────────────┬──────────────────────────────┐
+│                                          │                      │                              │
+│          CERTIFICATION WALL              │   GITHUB / TERMINAL  │        FINAL BOSS             │
+│                                          │   / CONTRIBUTIONS    │                              │
+│                                          │                      │                              │
+└──────────────────────────────────────────┴──────────────────────┴──────────────────────────────┘
+
+
+ROW 6 — FOOTER
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                          WEBSITE • EMAIL • GITHUB • LINKEDIN                                    │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+IMPORTANT:
+
+The dashboard must feel dense and interconnected.
+
+Avoid large empty spaces.
+
+Avoid excessive vertical whitespace.
+
+The sections should feel like multiple windows inside one game HUD.
+
+==================================================
+4. HERO PANEL
+==================================================
+
+The first panel must be the largest visual identity panel.
+
+Display:
+
+> SYSTEM ONLINE
+> PROFILE LOADED
+> READY TO CODE
+
+Then:
+
+ANDHIKA
+PRATAMA PUTRA
+
+Primary identity:
+
+FULLSTACK DEVELOPER
+
+Secondary:
+
+CLOUD ENTHUSIAST
+NETWORK ENGINEER
+
+Additional technology categories:
+
+CODE
+CLOUD
+NETWORK
+AI
+SECURITY
+DEVOPS
+
+Use pixel-art developer illustration.
+
+The developer should sit in front of:
+
+- laptop
+- terminal
+- city skyline
+- desk
+- coffee
+- subtle cyberpunk lighting
+
+Include:
+
+JOURNEY PROGRESS
+
+with a visual XP/progress bar.
+
+Do NOT interpret the progress percentage as a real measurement.
+
+It is purely decorative RPG UI.
+
+==================================================
+5. PLAYER PROFILE PANEL
+==================================================
+
+Create a compact character card.
+
+Title:
+
+PLAYER PROFILE
+
+Show:
+
+CLASS
+Fullstack Developer
+
+STATUS
+Informatics Student
+
+TITLE
+Cloud Enthusiast
+Network Engineer
+
+LOCATION
+Cirebon, Jawa Barat
+
+WEBSITE
+dikaxcloud.web.id
+
+EMAIL
+andhikapratamaputra@gmail.com
+
+Include a pixel-art character portrait.
+
+Use a vertical game character card.
+
+==================================================
+6. PLAYER STATUS PANEL
+==================================================
+
+Create:
+
+PLAYER STATUS
+
+Example:
+
+LVL 07
+NEW ADVENTURER
+
+XP
+████████░░
+
+HP
+██████████ 100/100
+
+ENERGY
+████████░░ 80/100
+
+FOCUS
+█████████░ 90/100
+
+IMPORTANT:
+
+These numbers are game UI values only.
+
+Do not present them as real-world measurements.
+
+==================================================
+7. CURRENT MISSION PANEL
+==================================================
+
+Create a large panel titled:
+
+🎯 CURRENT MISSION
+
+Main quest:
+
+UNIVERSITY ARC
+
+STATUS:
+IN PROGRESS
+
+Bachelor of Informatics
+
+Universitas Mercu Buana
+
+Aug 2026 — Present
+
+Add a large pixel-art university/castle environment.
+
+The visual should show the character entering a new chapter.
+
+Use:
+
+"The next chapter has begun."
+
+Do NOT invent:
+
+- GPA
+- semester
+- university organizations
+- awards
+- academic achievements
+
+==================================================
+8. ABOUT ME PANEL
+==================================================
+
+Title:
+
+📖 ABOUT ME
+
+Use information from the CV.
+
+Content:
+
+Graduate of SMK majoring in Computer & Network Engineering (TKJ),
+now pursuing a Bachelor's degree in Informatics at Universitas Mercu Buana.
+
+Passionate about building web applications,
+exploring cloud infrastructure, networking,
+cybersecurity, and AI.
+
+Runs a personal homelab using Docker
+to self-host web applications and expose them securely
+to the internet via Cloudflare Tunnel.
+
+Always learning.
+Always building.
+Always exploring.
+
+Include a pixel-art environment at the bottom:
+
+developer sitting near a campfire / mountain / night landscape.
+
+Do not make the paragraph too long.
+
+==================================================
+9. QUEST LOG — PROJECTS
+==================================================
+
+Create five compact RPG project cards.
+
+Title:
+
+⚔️ QUEST LOG (PROJECTS)
+
+Display:
+
+5 ACTIVE QUESTS
+
+Each project is a small RPG card with:
+
+- quest number
+- pixel-art thumbnail
+- project title
+- short description
+- technology tags
+- status
+
+QUEST 01
+
+AI Container Monitoring Agent
+
+Website:
+dik-ai-agent.web.id
+
+Description:
+Telegram bot + Gemini CLI
+Docker container monitoring
+AI-assisted alerting
+
+Status:
+COMPLETED
+
+
+QUEST 02
+
+ISP Complaint System
+NOC Monitoring
+
+Website:
+internet-stabil.web.id
+
+Technology:
+
+Laravel 11
+React
+PostgreSQL
+Redis
+Docker
+Cloudflare Tunnel
+Telegram Bot
+
+Status:
+COMPLETED
+
+
+QUEST 03
+
+DarahKita
+Capstone Project
+
+Website:
+darahkita.web.id
+
+Description:
+Blood donor platform
+Social impact project
+
+Role:
+TEAM LEADER
+
+Status:
+TEAM LEADER
+
+
+QUEST 04
+
+WebFinance
+AI Finance Manager
+
+Website:
+moneyku-telegram.web.id
+
+Features:
+
+Telegram Bot
+Expense Tracking
+AI Categorization
+
+Status:
+COMPLETED
+
+
+QUEST 05
+
+WebCraft
+SaaS Web & POS
+
+Website:
+contoh-web-jualan.my.id
+
+Features:
+
+Multi-tenant SaaS
+Web & POS Service
+
+Status:
+ACTIVE
+
+==================================================
+10. SKILL TREE
+==================================================
+
+Create a visual RPG skill tree.
+
+Center:
+
+SOFTWARE ENGINEERING
+
+Branch into:
+
+FRONTEND
+
+React.js
+JavaScript
+HTML
+CSS
+
+
+BACKEND
+
+Node.js
+Laravel
+REST API
+
+
+DATABASE
+
+MySQL
+PostgreSQL
+Redis
+
+
+DEVOPS
+
+Docker
+Nginx
+Cloudflare Tunnel
+
+
+CLOUD
+
+AWS
+Azure
+Google Cloud
+
+
+NETWORK
+
+TCP/IP
+MikroTik
+NOC Monitoring
+Troubleshooting
+
+
+CYBERSECURITY
+
+Ethical Hacking
+Web Application Security
+Pentest Basics
+
+
+AI
+
+Gemini API
+Generative AI
+AI Tools
+
+The visual structure must resemble a real RPG skill tree.
+
+Use connected lines between nodes.
+
+Different branches should have different neon colors.
+
+==================================================
+11. TECH INVENTORY
+==================================================
+
+Create:
+
+🎒 TECH INVENTORY
+
+Organize technologies as RPG equipment.
+
+WEAPONS (CODE)
+
+React
+Laravel
+Node.js
+JavaScript
+
+
+ARMOR (INFRA)
+
+Docker
+Nginx
+Cloudflare Tunnel
+
+
+ARTIFACTS (CLOUD)
+
+AWS
+Azure
+Google Cloud
+
+
+POTIONS (AI)
+
+Gemini API
+Claude
+OpenCode
+DeepSeek
+ChatGPT
+
+
+STORAGE (DATA)
+
+MySQL
+PostgreSQL
+Redis
+
+Only include AI tools if they are actually used or intentionally part
+of the user's developer workflow.
+
+Do not claim professional expertise merely from listing a tool.
+
+==================================================
+12. DEVELOPER JOURNEY
+==================================================
+
+Create a horizontal RPG progression timeline.
+
+Title:
+
+⚔️ DEVELOPER JOURNEY
+
+Timeline:
+
+SMK TKJ
+May 2026
+
+↓
+
+TECHNICIAN SUPPORT
+Jul — Sep 2025
+
+↓
+
+NOC EXPERIENCE
+Oct — Dec 2025
+
+↓
+
+FULLSTACK
+DEVELOPMENT
+
+↓
+
+CLOUD & AI
+EXPLORATION
+
+↓
+
+🎓 UNIVERSITY ARC
+Aug 2026 — Present
+
+↓
+
+🔒 ???
+NEXT ADVENTURE
+
+Each stage should have a small pixel-art illustration.
+
+The University Arc should have the strongest visual highlight.
+
+==================================================
+13. EDUCATION WALL
+==================================================
+
+Title:
+
+🎓 EDUCATION WALL
+
+Card 1:
+
+UNIVERSITAS MERCU BUANA
+
+Bachelor of Informatics
+
+Aug 2026 — Present
+
+Status:
+IN PROGRESS
+
+
+Card 2:
+
+SMK INFORMATIKA AL-IRSYAD AL-ISLAMIYYAH
+
+TKJ
+Computer & Network Engineering
+
+Graduated:
+May 2026
+
+==================================================
+14. CAREER QUESTS
+==================================================
+
+Title:
+
+⚔️ CAREER QUESTS (EXPERIENCE)
+
+QUEST:
+
+🏰 NOC DEFENDER
+
+PT. Internet Keluarga
+
+Oct 2025 — Dec 2025
+
+Responsibilities:
+
+Network Operations Center
+Network monitoring
+Server infrastructure monitoring
+Incident documentation
+Troubleshooting
+Escalation
+
+
+QUEST:
+
+🔧 FIELD TECHNICIAN
+
+PT. Internet Keluarga
+
+Jul 2025 — Sep 2025
+
+Responsibilities:
+
+Installation
+Configuration
+Router
+Access Point
+Modem
+Cable infrastructure
+Connectivity troubleshooting
+NOC coordination
+Customer support
+
+Use compact game mission cards.
+
+==================================================
+15. TRAINING ARC
+==================================================
+
+Title:
+
+🎓 TRAINING ARC
+
+Program:
+
+Orbit Future Academy
+AWS re/Start Program
+
+Aug 2026 — Sep 2026
+
+STATUS:
+
+IN PROGRESS
+
+Topics:
+
+Linux
+Python
+Networking
+Cybersecurity
+SQL
+AWS CLI
+EC2
+VPC
+Elastic Load Balancing
+Auto Scaling
+CloudWatch
+Containers
+Monitoring
+Agile
+
+Show a progress bar.
+
+The progress bar is visual only.
+
+Do NOT invent completion percentage.
+
+Also include:
+
+Coding Camp — Dicoding
+
+Jan 2026 — Apr 2026
+
+Fullstack Web Development
+
+React
+Node.js
+REST API
+Authentication
+Database
+Git
+GitHub
+Clean Code
+Team Leadership
+
+==================================================
+16. ACHIEVEMENT WALL
+==================================================
+
+Create RPG achievement badges.
+
+Title:
+
+🏆 ACHIEVEMENT WALL
+
+Achievements:
+
+🏆 FULLSTACK BUILDER
+Built multiple full-stack projects
+
+🏆 NOC DEFENDER
+Real-world network operations experience
+
+🏆 NETWORK WARRIOR
+Network engineering background
+
+🏆 CONTAINER TAMER
+Docker + homelab
+
+🏆 CLOUD EXPLORER
+AWS / Azure / Google Cloud exploration
+
+🏆 AI EXPLORER
+AI integration projects
+
+🏆 TEAM LEADER
+DarahKita capstone
+
+🏆 UNIVERSITY ARC UNLOCKED
+Bachelor of Informatics
+
+🏆 SECURITY APPRENTICE
+Cybersecurity learning and certifications
+
+Each achievement should look like an RPG badge.
+
+Use glowing hexagonal / circular pixel-art icons.
+
+==================================================
+17. HOMELAB ARCHITECTURE
+==================================================
+
+Create a technical network diagram.
+
+Title:
+
+🏠 HOMELAB ARCHITECTURE
+
+Diagram:
+
+INTERNET
+↓
+CLOUDFLARE TUNNEL
+↓
+HOMELAB
+DOCKER HOST
+↓
+┌────────────┬────────────┬────────────┬────────────┐
+WEB APPS    AI AGENT    MONITORING    DATABASE
+└────────────┴────────────┴────────────┴────────────┘
+↓
+TELEGRAM BOT
+
+The diagram should look like a futuristic RPG infrastructure map.
+
+Use glowing network lines.
+
+==================================================
+18. CERTIFICATION WALL
+==================================================
+
+Create a dense certification panel.
+
+Title:
+
+🏆 CERTIFICATION WALL
+
+Group into:
+
+CLOUD & AWS
+
+- Belajar Dasar Cloud dan Gen AI di AWS
+- Belajar Penerapan Data Science dengan Microsoft Fabric & Gen AI Azure
+- Cloud Computing LKS SMK
+
+
+CYBERSECURITY & NETWORK
+
+- MTCNA
+- Olimpiade Jaringan MikroTik 2024
+- Ethical Hacker
+- Certified Junior Web App Penetration Tester
+- CCEP
+- CRTOM
+- CTIGA
+- CRPO
+
+
+WEB DEVELOPMENT
+
+- Coding Camp 2026 Full-Stack Web Developer
+- Belajar Back-End Pemula dengan JavaScript
+- Belajar Dasar Pemrograman Web
+- Belajar Membuat Aplikasi Web dengan React
+- Spec-Driven Development dengan Kiro
+- Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+
+
+AI & PRODUCTIVITY
+
+- AI Mini Camp
+- AI Praktis untuk Produktivitas
+- Belajar Penggunaan Generative AI
+- Productivity with AI Bootcamp
+- Introduction to Financial Literacy
+
+Keep the certification panel dense but readable.
+
+==================================================
+19. TERMINAL PANEL
+==================================================
+
+Create a terminal UI.
+
+Example:
+
+┌──[andhika@homelab]─[~]
+
+$ whoami
+
+Fullstack Developer
+Cloud Enthusiast
+Network Engineer
+Informatics Student
+
+$ current_arc
+
+University Arc — IN PROGRESS
+
+$ interests
+
+Software Development
+Cloud
+Networking
+Cybersecurity
+AI
+DevOps
+
+$ mission
+
+Build.
+Learn.
+Experiment.
+Deploy.
+
+$ _
+
+Use subtle blinking cursor animation.
+
+==================================================
+20. GITHUB STATS
+==================================================
+
+Create a compact:
+
+📊 GITHUB STATS
+
+Include:
+
+Repositories
+Contributions
+Stars
+Followers
+Streak
+Contribution Graph
+
+Use dynamically generated values.
+
+NEVER fabricate statistics.
+
+Use the actual GitHub username discovered from the repository.
+
+==================================================
+21. CONTRIBUTION SNAKE
+==================================================
+
+Create:
+
+🐍 CONTRIBUTION SNAKE
+
+Use GitHub Actions to generate the contribution snake.
+
+Style it to match the cyberpunk RPG theme.
+
+Keep it compact.
+
+==================================================
+22. FINAL BOSS
+==================================================
+
+Create the final panel exactly as a game ending.
+
+Title:
+
+🏆 FINAL BOSS
+
+Large quote:
+
+"BUILD SOMETHING GREAT."
+
+Subtitle:
+
+Let's build the next adventure together!
+
+Background:
+
+Pixel-art cyberpunk/fantasy landscape.
+
+Character standing with backpack / developer equipment.
+
+A large mysterious boss/dragon silhouette in the background.
+
+This represents future challenges.
+
+Do not claim this is an actual project.
+
+==================================================
+23. FOOTER
+==================================================
+
+Create compact contact cards:
+
+🌐 WEBSITE
+dikaxcloud.web.id
+
+📧 EMAIL
+andhikapratamaputra@gmail.com
+
+🐙 GITHUB
+use actual GitHub profile URL
+
+💼 LINKEDIN
+only use if verified
+
+Footer text:
+
+"Thanks for visiting my profile! ⭐"
+
+and:
+
+"Achievement Unlocked: Curious Developer 🏆"
+
+==================================================
+24. PIXEL ART STYLE
+==================================================
+
+ALL illustrations must follow ONE consistent art direction.
+
+Use:
+
+16-bit / 32-bit pixel art
+
+Style:
+
+- dark cyberpunk
+- RPG game
+- neon lighting
+- cinematic night
+- blue/purple/cyan highlights
+- detailed environments
+- pixel characters
+
+Do NOT mix:
+
+- realistic photography
+- anime
+- 3D render
+- cartoon vector
+- flat corporate illustration
+
+Everything should look like it belongs to the same game.
+
+==================================================
+25. PANEL DESIGN
+==================================================
+
+Every panel should have:
+
+- dark translucent background
+- thin neon border
+- subtle glow
+- small title bar
+- icon
+- category color
+- pixel-art details
+
+Corners should be slightly stylized like a game HUD.
+
+Avoid huge rounded modern SaaS cards.
+
+The interface should feel more like:
+
+"Cyberpunk RPG operating system"
+
+than:
+
+"Modern SaaS landing page."
+
+==================================================
+26. DENSITY
+==================================================
+
+This is VERY IMPORTANT.
+
+The reference design is dense.
+
+Do NOT spread the content into giant empty sections.
+
+The README should feel like:
+
+ONE HUGE INFORMATION-DENSE GAME SCREEN.
+
+Information should be packed into panels.
+
+Use:
+
+- compact cards
+- compact typography
+- small icons
+- small illustrations
+- visual hierarchy
+
+But maintain readability.
+
+==================================================
+27. README IMPLEMENTATION
+==================================================
+
+GitHub README limitations must be respected.
+
+Do NOT use:
+
+JavaScript
+React
+Custom CSS
+iframes
+interactive web applications
+unsupported scripts
+
+Use:
+
+Markdown
+GitHub-compatible HTML
+SVG
+GIF
+GitHub Actions
+Badges
+Images
+
+For complex visual elements, create SVG assets.
+
+==================================================
+28. ASSET STRUCTURE
+==================================================
+
+Create:
+
+README.md
+
+assets/
+
+hero.svg
+player-profile.svg
+player-status.svg
+university-arc.svg
+about.svg
+quest-board.svg
+skill-tree.svg
+tech-inventory.svg
+developer-journey.svg
+education.svg
+career.svg
+training.svg
+achievements.svg
+certifications.svg
+homelab.svg
+terminal.svg
+final-boss.svg
+footer.svg
+
+.github/
+
+workflows/
+
+snake.yml
+
+Prefer SVG.
+
+Use GIF only where animation is genuinely useful.
+
+==================================================
+29. ANIMATION
+==================================================
+
+Animations should match the reference.
+
+Use subtle:
+
+- glowing lights
+- blinking terminal cursor
+- moving particles
+- XP bar animation
+- status indicator pulse
+- floating particles
+- animated snake
+
+Do NOT animate every element.
+
+No flashing.
+
+No excessive motion.
+
+==================================================
+30. IMPORTANT — DO NOT CHANGE THE VISUAL CONCEPT
+==================================================
+
+The provided reference image is the target.
+
+DO NOT:
+
+- simplify it into a normal README
+- replace panels with plain headings
+- remove the RPG HUD
+- remove pixel art
+- remove the dense dashboard structure
+- turn it into a modern SaaS landing page
+- use giant centered text sections
+- use generic skill badges everywhere
+- make it mostly white
+- make it minimalist
+
+The final result should visually feel like:
+
+A SINGLE GIANT CYBERPUNK RPG CHARACTER DASHBOARD.
+
+==================================================
+31. PUBLIC VISIBILITY & OPENING — CRITICAL
+==================================================
+
+This README is a PROFILE README.
+
+To be visible as the opening on https://github.com/dikaxcloud :
+
+1. Repository MUST be named exactly: dikaxcloud
+   Full path: dikaxcloud/dikaxcloud
+   This is GitHub's special profile repository.
+
+2. Repository visibility MUST be PUBLIC (not private).
+   Check: Settings → Danger Zone → Change visibility → Public
+
+3. README.md MUST be at the root of the main branch (main/master).
+
+4. After push, the opening will appear automatically at the top of
+   https://github.com/dikaxcloud — no extra pinning needed.
+
+5. For backup/portfolio, also push to dikaxcloud/readme-github (public).
+
+6. Verify via anonymous/incognito window that the dashboard is visible
+   to visitors without login.
+
+If the repository is private, the profile opening will NOT appear.
+
+==================================================
+32. PERSONAL INFORMATION ACCURACY
+==================================================
+
+Use only verified information from the provided CV.
+
+Current education:
+
+Universitas Mercu Buana
+Bachelor of Informatics
+Aug 2026 — Present
+
+Previous education:
+
+SMK Informatika Al-Irsyad Al-Islamiyyah
+TKJ
+Graduated May 2026
+
+Experience:
+
+PT. Internet Keluarga
+Technician Support
+Jul 2025 — Sep 2025
+
+PT. Internet Keluarga
+NOC
+Oct 2025 — Dec 2025
+
+Training:
+
+Orbit Future Academy
+AWS re/Start
+Aug 2026 — Sep 2026
+IN PROGRESS
+
+Projects:
+
+AI Container Monitoring Agent
+ISP Complaint System
+DarahKita
+WebFinance
+WebCraft
+
+==================================================
+33. FINAL REVIEW
+==================================================
+
+Before finishing:
+
+1. Inspect the existing repository.
+2. Inspect existing README.
+3. Identify GitHub username.
+4. Preserve useful existing assets.
+5. Create the new README.
+6. Create all required SVG assets.
+7. Create animation assets.
+8. Create snake workflow.
+9. Verify all URLs.
+10. Verify all personal information.
+11. Verify all project information.
+12. Verify education status.
+13. Verify training status.
+14. Validate Markdown.
+15. Validate image paths.
+16. Optimize image sizes.
+17. Check GitHub rendering.
+18. Check mobile readability.
+19. Remove unsupported HTML/JavaScript.
+20. Make sure the final README visually resembles the provided reference.
+
+==================================================
+FINAL DESIGN GOAL
+==================================================
+
+The final profile should look like:
+
+┌─────────────────────────────────────────────────────────────┐
+│ SYSTEM ONLINE        ANDHIKA PRATAMA PUTRA        LVL / XP  │
+│                                                             │
+│ HERO         PLAYER PROFILE      PLAYER STATUS    UNIVERSITY │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│ ABOUT ME        QUEST LOG        SKILL TREE       INVENTORY  │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│ DEVELOPER JOURNEY       EDUCATION       ACHIEVEMENTS        │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│ CAREER QUESTS       TRAINING ARC       HOMELAB              │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│ CERTIFICATIONS      TERMINAL/GITHUB       FINAL BOSS         │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│ WEBSITE      EMAIL       GITHUB       LINKEDIN               │
+└─────────────────────────────────────────────────────────────┘
+
+The result must feel like a premium:
+
+"FULLSTACK DEVELOPER RPG CHARACTER SCREEN"
+
+not a normal resume.
+
+The visitor should immediately understand:
+
+⚔️ Fullstack Developer
+☁️ Cloud Enthusiast
+🌐 Network Engineer
+🤖 AI Explorer
+🐳 Homelab Builder
+🎓 Informatics Student
+
+The narrative:
+
+SMK TKJ
+→ Technician
+→ NOC
+→ Fullstack
+→ Cloud & AI
+→ Homelab
+→ University Arc
+→ ???
+
+This "???" represents the next adventure.
