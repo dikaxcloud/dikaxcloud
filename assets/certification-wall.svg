@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Certification Wall">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a162c"/><stop offset="100%" stop-color="#0f0b1e"/></linearGradient></defs>
+<rect width="1200" height="220" rx="10" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1.5"/>
+<rect x="0" y="0" width="1200" height="24" rx="10" fill="#0f1f3a"/><rect x="0" y="14" width="1200" height="10" fill="#0f1f3a"/>
+<text x="12" y="16" font-family="JetBrains Mono,monospace" font-size="7.5" fill="#f59e0b" letter-spacing="0.8">◆ CERTIFICATION WALL</text>
+<!-- 4 columns -->
+<g font-family="JetBrains Mono,monospace" font-size="5">
+  <!-- Cloud -->
+  <rect x="10" y="32" width="290" height="178" rx="8" fill="#050a18" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="10" y="32" width="290" height="18" rx="8" fill="#0b1e2e"/><rect x="10" y="42" width="290" height="8" fill="#0b1e2e"/>
+  <text x="155" y="44" font-size="5.5" fill="#7dd3fc" text-anchor="middle" font-weight="bold">☁ CLOUD &amp; AWS</text>
+  <g fill="#cbd5e1">
+    <text x="18" y="66">• Belajar Dasar Cloud dan Gen AI di AWS</text><text x="22" y="74" fill="#64748b">  — Dicoding</text>
+    <text x="18" y="88">• Data Science dengan Microsoft Fabric &amp;</text><text x="22" y="96" fill="#64748b">  Gen AI Azure — Dicoding</text>
+    <text x="18" y="110">• Cloud Computing LKS SMK</text><text x="22" y="118" fill="#64748b">  — Dinas Pendidikan Jabar</text>
+    <rect x="18" y="132" width="274" height="1" fill="#1e3a5f" opacity="0.3"/>
+    <text x="18" y="148" fill="#475569">+ 3 more • see detail</text>
+  </g>
+  <!-- Cybersec -->
+  <rect x="310" y="32" width="290" height="178" rx="8" fill="#050a18" stroke="#ef4444" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="310" y="32" width="290" height="18" rx="8" fill="#1a0a0a"/><rect x="310" y="42" width="290" height="8" fill="#1a0a0a"/>
+  <text x="455" y="44" font-size="5.5" fill="#fca5a5" text-anchor="middle" font-weight="bold">🛡 CYBERSECURITY &amp; NETWORK</text>
+  <g fill="#cbd5e1">
+    <text x="318" y="66">• MTCNA — MikroTik</text>
+    <text x="318" y="78">• Olimpiade Jaringan MikroTik 2024 — Citraweb</text>
+    <text x="318" y="90">• Ethical Hacker — Cisco</text>
+    <text x="318" y="102">• CJWAPT — Sturtle Security</text>
+    <text x="318" y="114">• CCEP — Red Team Leaders</text>
+    <text x="318" y="126">• CRTOM — Red Team Leaders</text>
+    <text x="318" y="138">• CTIGA — Red Team Leaders</text>
+    <text x="318" y="150">• CRPO — Ransomware Protection Officer</text>
+  </g>
+  <!-- Web dev -->
+  <rect x="610" y="32" width="290" height="178" rx="8" fill="#050a18" stroke="#22c55e" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="610" y="32" width="290" height="18" rx="8" fill="#0f1f0a"/><rect x="610" y="42" width="290" height="8" fill="#0f1f0a"/>
+  <text x="755" y="44" font-size="5.5" fill="#86efac" text-anchor="middle" font-weight="bold">⚔ WEB DEVELOPMENT</text>
+  <g fill="#cbd5e1">
+    <text x="618" y="66">• Coding Camp 2026 Full-Stack Web Developer</text><text x="622" y="74" fill="#64748b">  — Dicoding</text>
+    <text x="618" y="88">• Back-End Pemula dengan JavaScript</text>
+    <text x="618" y="100">• Dasar Pemrograman Web</text>
+    <text x="618" y="112">• Membuat Aplikasi Web dengan React</text>
+    <text x="618" y="124">• SDD dengan Kiro — Dicoding</text>
+    <text x="618" y="136">• Dasar Pemrograman Software</text>
+  </g>
+  <!-- AI -->
+  <rect x="910" y="32" width="280" height="178" rx="8" fill="#050a18" stroke="#a855f7" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="910" y="32" width="280" height="18" rx="8" fill="#1a0a2e"/><rect x="910" y="42" width="280" height="8" fill="#1a0a2e"/>
+  <text x="1050" y="44" font-size="5.5" fill="#d8b4fe" text-anchor="middle" font-weight="bold">🤖 AI &amp; PRODUCTIVITY</text>
+  <g fill="#cbd5e1">
+    <text x="918" y="66">• AI Mini Camp — AI &amp; Digital Productivity</text>
+    <text x="918" y="78">• AI Praktis untuk Produktivitas — Dicoding</text>
+    <text x="918" y="90">• Penggunaan Generative AI — Dicoding</text>
+    <text x="918" y="102">• Productivity with AI Bootcamp — KemenEkraf</text>
+    <text x="918" y="114">• Introduction to Financial Literacy</text>
+    <rect x="918" y="130" width="264" height="22" rx="6" fill="#0a162c" stroke="#1e3a5f" stroke-width="0.8"/><text x="1050" y="144" font-size="5" fill="#475569" text-anchor="middle">22 CERTS TOTAL</text>
+  </g>
+</g>
+</svg>

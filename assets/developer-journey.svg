@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="Developer Journey">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a162c"/><stop offset="100%" stop-color="#0f0b1e"/></linearGradient></defs>
+<rect width="800" height="180" rx="10" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1.5"/>
+<rect x="0" y="0" width="800" height="24" rx="10" fill="#0f1f3a"/><rect x="0" y="14" width="800" height="10" fill="#0f1f3a"/>
+<text x="12" y="16" font-family="JetBrains Mono,monospace" font-size="7.5" fill="#ef4444" letter-spacing="0.8">◆ DEVELOPER JOURNEY</text>
+<!-- Timeline line -->
+<line x1="40" y1="90" x2="760" y2="90" stroke="#1e3a5f" stroke-width="2" stroke-dasharray="4 3" opacity="0.7"/>
+<!-- Nodes -->
+<g font-family="JetBrains Mono,monospace" text-anchor="middle">
+  <!-- SMK -->
+  <g><rect x="28" y="52" width="56" height="36" rx="6" fill="#050a18" stroke="#38bdf8" stroke-width="1"/><text x="56" y="66" font-size="14">🎓</text><text x="56" y="80" font-size="10">🎓</text></g>
+  <text x="56" y="118" font-size="6" fill="#7dd3fc">SMK TKJ</text><text x="56" y="128" font-size="5" fill="#94a3b8">Graduated</text><text x="56" y="136" font-size="5" fill="#64748b">May 2026</text>
+  <circle cx="56" cy="90" r="6" fill="#38bdf8" stroke="#0a162c" stroke-width="2"/>
+  <!-- Technician -->
+  <g><rect x="128" y="52" width="56" height="36" rx="6" fill="#050a18" stroke="#f59e0b" stroke-width="1"/><text x="156" y="74" font-size="12">🔧</text></g>
+  <text x="156" y="118" font-size="5.5" fill="#fde68a">Technician</text><text x="156" y="128" font-size="5" fill="#94a3b8">Support</text><text x="156" y="136" font-size="5" fill="#64748b">Jul - Sep 2025</text>
+  <circle cx="156" cy="90" r="6" fill="#f59e0b" stroke="#0a162c" stroke-width="2"/>
+  <!-- NOC -->
+  <g><rect x="228" y="52" width="56" height="36" rx="6" fill="#050a18" stroke="#ef4444" stroke-width="1"/><text x="256" y="74" font-size="12">🏰</text></g>
+  <text x="256" y="118" font-size="5.5" fill="#fca5a5">NOC</text><text x="256" y="128" font-size="5" fill="#94a3b8">Experience</text><text x="256" y="136" font-size="5" fill="#64748b">Oct - Dec 2025</text>
+  <circle cx="256" cy="90" r="6" fill="#ef4444" stroke="#0a162c" stroke-width="2"/>
+  <!-- Fullstack -->
+  <g><rect x="328" y="52" width="56" height="36" rx="6" fill="#050a18" stroke="#22c55e" stroke-width="1"/><text x="356" y="74" font-size="12">⚔</text></g>
+  <text x="356" y="118" font-size="5.5" fill="#86efac">Fullstack</text><text x="356" y="128" font-size="5" fill="#94a3b8">Development</text>
+  <circle cx="356" cy="90" r="6" fill="#22c55e" stroke="#0a162c" stroke-width="2"/>
+  <!-- Cloud -->
+  <g><rect x="428" y="52" width="56" height="36" rx="6" fill="#050a18" stroke="#a855f7" stroke-width="1"/><text x="456" y="74" font-size="12">☁</text></g>
+  <text x="456" y="118" font-size="5.5" fill="#d8b4fe">Cloud &amp; AI</text><text x="456" y="128" font-size="5" fill="#94a3b8">Exploration</text>
+  <circle cx="456" cy="90" r="6" fill="#a855f7" stroke="#0a162c" stroke-width="2"/>
+  <!-- University highlighted -->
+  <g><rect x="520" y="44" width="80" height="52" rx="8" fill="#1a1030" stroke="#a855f7" stroke-width="1.5"/><text x="560" y="64" font-size="14" text-anchor="middle">🏰</text><text x="560" y="78" font-size="5" fill="#e9d5ff">UNIVERSITY</text><text x="560" y="86" font-size="4.5" fill="#cbd5e1">ARC</text></g>
+  <text x="560" y="118" font-size="5.5" fill="#e9d5ff">UNIVERSITY ARC</text><text x="560" y="128" font-size="4.5" fill="#94a3b8">Aug 2026 - Present</text>
+  <circle cx="560" cy="90" r="8" fill="#a855f7" stroke="#0a162c" stroke-width="2"><animate attributeName="r" values="8;9;8" dur="2s" repeatCount="indefinite"/></circle>
+  <!-- Next -->
+  <g><rect x="640" y="52" width="56" height="36" rx="6" fill="#0a0a0a" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/><text x="668" y="74" font-size="12">🔒</text></g>
+  <text x="668" y="118" font-size="5.5" fill="#475569">???</text><text x="668" y="128" font-size="5" fill="#475569">Next Adventure</text>
+  <circle cx="668" cy="90" r="6" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+  <!-- Arrows between -->
+  <g fill="#1e3a5f" font-size="7"><text x="105" y="92">→</text><text x="205" y="92">→</text><text x="305" y="92">→</text><text x="405" y="92">→</text><text x="505" y="92">→</text><text x="615" y="92">→</text></g>
+</g>
+</svg>

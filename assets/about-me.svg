@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 340" width="460" height="340" role="img" aria-label="About Me - Character Lore">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a162c"/><stop offset="100%" stop-color="#0f0b1e"/></linearGradient></defs>
+<rect width="460" height="340" rx="10" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1.5"/>
+<rect x="0" y="0" width="460" height="26" rx="10" fill="#0f1f3a"/><rect x="0" y="16" width="460" height="10" fill="#0f1f3a"/>
+<text x="14" y="17" font-family="JetBrains Mono,monospace" font-size="8" fill="#cbd5e1" letter-spacing="0.8">📖 ABOUT ME</text>
+<g font-family="JetBrains Mono,monospace" font-size="6.5" fill="#94a3b8">
+  <text x="14" y="44" fill="#cbd5e1">Graduate of SMK majoring in Computer &amp;</text>
+  <text x="14" y="56" fill="#cbd5e1">Network Engineering (TKJ), now pursuing a</text>
+  <text x="14" y="68" fill="#cbd5e1">Bachelor's degree in Informatics at</text>
+  <text x="14" y="80" fill="#a855f7">Universitas Mercu Buana.</text>
+  <rect x="14" y="90" width="432" height="1" fill="#1e3a5f" opacity="0.5"/>
+  <text x="14" y="104" fill="#cbd5e1">Passionate about building web applications,</text>
+  <text x="14" y="116" fill="#cbd5e1">exploring cloud infrastructure, networking,</text>
+  <text x="14" y="128" fill="#cbd5e1">cybersecurity, and AI.</text>
+  <text x="14" y="148" fill="#e2e8f0">I run a personal homelab using Docker to</text>
+  <text x="14" y="160" fill="#e2e8f0">self-host web applications and expose them</text>
+  <text x="14" y="172" fill="#e2e8f0">securely to the internet via Cloudflare Tunnel.</text>
+  <text x="14" y="192" fill="#00e5ff">Always learning, always building.</text>
+  <text x="14" y="204" fill="#00e5ff">Always exploring.</text>
+</g>
+<!-- bottom silhouette with mountains -->
+<g opacity="0.95">
+  <path d="M 0 250 L 120 210 L 180 230 L 260 190 L 360 230 L 460 210 L 460 340 L 0 340 Z" fill="#1a0b2e"/>
+  <path d="M 0 270 L 100 240 L 160 260 L 240 220 L 340 250 L 460 230 L 460 340 L 0 340 Z" fill="#0f172a"/>
+  <!-- small character with backpack looking at mountains -->
+  <g>
+    <rect x="360" y="230" width="36" height="28" rx="6" fill="#3b2a1a"/><rect x="370" y="240" width="16" height="10" rx="2" fill="#6b4423"/>
+    <rect x="375" y="250" width="28" height="22" rx="6" fill="#1e3a5f"/>
+    <circle cx="389" cy="240" r="10" fill="#f0c9a8"/><path d="M 380 235 Q 382 222 389 220 Q 396 222 398 235" fill="#0f0f0f"/>
+  </g>
+  <!-- stars -->
+  <g fill="#fff" opacity="0.4"><circle cx="40" cy="270" r="1"/><circle cx="80" cy="260" r="0.8"/><circle cx="200" cy="250" r="1"/><circle cx="300" cy="265" r="0.8"/></g>
+</g>
+</svg>
