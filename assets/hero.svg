@@ -43,9 +43,37 @@
 <g>
   <rect x="620" y="138" width="86" height="56" rx="4" fill="#1e293b" stroke="#334155" stroke-width="1"/><rect x="625" y="143" width="76" height="42" rx="2" fill="#020617"/><text x="646" y="168" font-family="JetBrains Mono,monospace" font-size="13" fill="#00e5ff">&lt;/&gt;</text><rect x="590" y="194" width="140" height="6" rx="1" fill="#334155"/><rect x="665" y="162" width="8" height="2" rx="1" fill="#00e5ff"><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></rect>
 </g>
-<!-- character -->
-<g>
-  <rect x="710" y="150" width="48" height="36" rx="6" fill="#1e293b"/><rect x="750" y="108" width="38" height="34" rx="8" fill="#f0c9a8" stroke="#020617" stroke-width="1"/><path d="M748 118 Q750 90 774 88 Q796 92 798 118 Z" fill="#0f0f0f"/><ellipse cx="762" cy="124" rx="3" ry="3.5" fill="#020617"/><ellipse cx="780" cy="124" rx="3" ry="3.5" fill="#020617"/><rect x="740" y="142" width="58" height="32" rx="8" fill="#1e3a5f"/>
+<!-- character — pixel-art 16-bit, proporsional tidak gepeng -->
+<g transform="translate(718,90)">
+  <g shape-rendering="crispEdges">
+    <!-- chair back -->
+    <rect x="0" y="28" width="42" height="34" fill="#2a1f14" rx="1"/>
+    <rect x="2" y="30" width="38" height="30" fill="#3b2a1a"/>
+    <!-- shadow -->
+    <ellipse cx="21" cy="68" rx="18" ry="4" fill="#020617" opacity="0.35"/>
+    <!-- legs (pants) -->
+    <rect x="10" y="50" width="8" height="14" fill="#0f172a"/><rect x="22" y="50" width="8" height="14" fill="#0f172a"/>
+    <rect x="8" y="64" width="10" height="3" fill="#020617"/><rect x="20" y="64" width="10" height="3" fill="#020617"/>
+    <!-- body hoodie -->
+    <rect x="6" y="28" width="28" height="22" fill="#1e3a5f"/>
+    <rect x="4" y="30" width="4" height="14" fill="#1e3a5f"/><rect x="32" y="30" width="4" height="12" fill="#1e3a5f"/>
+    <!-- arms on desk -->
+    <rect x="0" y="38" width="10" height="6" fill="#f0c9a8"/><rect x="30" y="38" width="10" height="6" fill="#f0c9a8"/>
+    <!-- head -->
+    <rect x="10" y="8" width="20" height="20" fill="#f0c9a8"/>
+    <!-- hair — black pixel bangs -->
+    <rect x="8" y="6" width="24" height="10" fill="#0a0a0a"/>
+    <rect x="10" y="4" width="16" height="4" fill="#0a0a0a"/>
+    <rect x="12" y="2" width="12" height="2" fill="#0a0a0a"/>
+    <!-- bangs detail -->
+    <rect x="12" y="10" width="4" height="2" fill="#0a0a0a"/><rect x="20" y="10" width="4" height="2" fill="#0a0a0a"/>
+    <!-- eyes -->
+    <rect x="14" y="16" width="4" height="4" fill="#020617"/><rect x="22" y="16" width="4" height="4" fill="#020617"/>
+    <rect x="15" y="17" width="1" height="1" fill="#fff" opacity="0.9"/><rect x="23" y="17" width="1" height="1" fill="#fff" opacity="0.9"/>
+    <!-- hood detail -->
+    <rect x="14" y="28" width="12" height="2" fill="#0f172a" opacity="0.5"/>
+  </g>
+  <animateTransform attributeName="transform" type="translate" values="718,90;718,88.5;718,90" dur="2.2s" repeatCount="indefinite"/>
 </g>
 <rect x="792" y="158" width="20" height="20" rx="4" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/><text x="796" y="172" font-size="7">☕</text>
 <!-- status right -->
