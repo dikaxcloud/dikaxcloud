@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="Skill Tree">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a162c"/><stop offset="100%" stop-color="#0f0b1e"/></linearGradient>
+</defs>
+<rect width="1200" height="560" rx="14" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1.8"/>
+<!-- Header -->
+<rect x="0" y="0" width="1200" height="36" rx="14" fill="#0f1f3a"/>
+<rect x="0" y="22" width="1200" height="14" fill="#0f1f3a"/>
+<text x="20" y="23" font-family="JetBrains Mono,monospace" font-size="10" fill="#a855f7" letter-spacing="1">◆ SKILL TREE</text>
+<rect x="160" y="8" width="220" height="20" rx="10" fill="#050a18" stroke="#a855f7" stroke-opacity="0.4" stroke-width="1"/>
+<text x="270" y="21" font-family="JetBrains Mono,monospace" font-size="7.5" fill="#e9d5ff" text-anchor="middle" font-weight="bold">SOFTWARE ENGINEERING</text>
+<!-- Top connector -->
+<g stroke="#475569" stroke-width="1.2" fill="none" opacity="0.7">
+  <line x1="600" y1="56" x2="600" y2="76"/>
+  <line x1="200" y1="76" x2="1000" y2="76"/>
+  <line x1="200" y1="76" x2="200" y2="98"/><line x1="400" y1="76" x2="400" y2="98"/><line x1="600" y1="76" x2="600" y2="98"/><line x1="800" y1="76" x2="800" y2="98"/>
+  <!-- second level connectors -->
+  <line x1="200" y1="210" x2="200" y2="230"/><line x1="200" y1="230" x2="150" y2="230"/><line x1="200" y1="230" x2="250" y2="230"/>
+  <line x1="150" y1="230" x2="150" y2="250"/><line x1="250" y1="230" x2="250" y2="250"/>
+  <line x1="800" y1="210" x2="800" y2="230"/><line x1="800" y1="230" x2="750" y2="230"/><line x1="800" y1="230" x2="850" y2="230"/>
+  <line x1="750" y1="230" x2="750" y2="250"/><line x1="850" y1="230" x2="850" y2="250"/>
+</g>
+<!-- Root node -->
+<g>
+  <rect x="530" y="36" width="140" height="24" rx="12" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.2"/>
+  <text x="600" y="51" font-family="JetBrains Mono,monospace" font-size="7" fill="#c7d2fe" text-anchor="middle" font-weight="bold">🧠 SOFTWARE ENGINEERING</text>
+  <circle cx="600" cy="62" r="3" fill="#6366f1"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+</g>
+<!-- 4 main branches -->
+<!-- FRONTEND -->
+<g>
+  <rect x="130" y="98" width="140" height="112" rx="10" fill="#0b1e2e" stroke="#38bdf8" stroke-width="1.2"/>
+  <rect x="130" y="98" width="140" height="20" rx="10" fill="#0c2a42"/><rect x="130" y="108" width="140" height="10" fill="#0c2a42"/>
+  <text x="200" y="112" font-family="JetBrains Mono,monospace" font-size="7" fill="#7dd3fc" text-anchor="middle" font-weight="bold">⚔ FRONTEND</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="145" y="134">▸ React.js</text><text x="145" y="150">▸ JavaScript</text><text x="145" y="166">▸ HTML</text><text x="145" y="182">▸ CSS</text><text x="145" y="198" fill="#64748b">Learning • Building</text>
+  </g>
+</g>
+<!-- BACKEND -->
+<g>
+  <rect x="330" y="98" width="140" height="112" rx="10" fill="#0e1f0e" stroke="#22c55e" stroke-width="1.2"/>
+  <rect x="330" y="98" width="140" height="20" rx="10" fill="#14331a"/><rect x="330" y="108" width="140" height="10" fill="#14331a"/>
+  <text x="400" y="112" font-family="JetBrains Mono,monospace" font-size="7" fill="#86efac" text-anchor="middle" font-weight="bold">⚙ BACKEND</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="345" y="134">▸ Node.js</text><text x="345" y="150">▸ Laravel</text><text x="345" y="166">▸ REST API</text><text x="345" y="182">▸ Authentication</text><text x="345" y="198" fill="#64748b">Familiar • Exploring</text>
+  </g>
+</g>
+<!-- DATABASE -->
+<g>
+  <rect x="530" y="98" width="140" height="112" rx="10" fill="#1a1500" stroke="#f59e0b" stroke-width="1.2"/>
+  <rect x="530" y="98" width="140" height="20" rx="10" fill="#3a2d00"/><rect x="530" y="108" width="140" height="10" fill="#3a2d00"/>
+  <text x="600" y="112" font-family="JetBrains Mono,monospace" font-size="7" fill="#fde68a" text-anchor="middle" font-weight="bold">🗄 DATABASE</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="545" y="134">▸ MySQL</text><text x="545" y="150">▸ PostgreSQL</text><text x="545" y="160" font-size="5.5" fill="#f59e0b">(Learning)</text><text x="545" y="176">▸ Redis</text><text x="545" y="198" fill="#64748b">Building</text>
+  </g>
+</g>
+<!-- DEVOPS -->
+<g>
+  <rect x="730" y="98" width="140" height="112" rx="10" fill="#0f172a" stroke="#06b6d4" stroke-width="1.2"/>
+  <rect x="730" y="98" width="140" height="20" rx="10" fill="#0e2f3a"/><rect x="730" y="108" width="140" height="10" fill="#0e2f3a"/>
+  <text x="800" y="112" font-family="JetBrains Mono,monospace" font-size="7" fill="#67e8f9" text-anchor="middle" font-weight="bold">🐳 DEVOPS</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="745" y="134">▸ Docker</text><text x="745" y="150">▸ Nginx</text><text x="745" y="166">▸ Cloudflare Tunnel</text><text x="745" y="198" fill="#64748b">Homelab • Self-host</text>
+  </g>
+</g>
+<!-- Second row -->
+<!-- CLOUD -->
+<g>
+  <rect x="80" y="250" width="140" height="100" rx="10" fill="#0a162c" stroke="#38bdf8" stroke-width="1.2"/>
+  <rect x="80" y="250" width="140" height="20" rx="10" fill="#0c2a42"/><rect x="80" y="260" width="140" height="10" fill="#0c2a42"/>
+  <text x="150" y="264" font-family="JetBrains Mono,monospace" font-size="7" fill="#7dd3fc" text-anchor="middle" font-weight="bold">☁ CLOUD</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="95" y="284">▸ AWS</text><text x="95" y="300">▸ Microsoft Azure</text><text x="95" y="316">▸ Google Cloud</text><text x="95" y="332" fill="#64748b">Exploring • Learning</text>
+  </g>
+</g>
+<!-- NETWORK -->
+<g>
+  <rect x="260" y="250" width="160" height="100" rx="10" fill="#0f172a" stroke="#22c55e" stroke-width="1.2"/>
+  <rect x="260" y="250" width="160" height="20" rx="10" fill="#14331a"/><rect x="260" y="260" width="160" height="10" fill="#14331a"/>
+  <text x="340" y="264" font-family="JetBrains Mono,monospace" font-size="7" fill="#86efac" text-anchor="middle" font-weight="bold">🌐 NETWORK</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="275" y="284">▸ TCP/IP</text><text x="275" y="300">▸ MikroTik (MTCNA)</text><text x="275" y="316">▸ NOC Monitoring</text><text x="275" y="332" fill="#64748b">Experience</text>
+  </g>
+</g>
+<!-- CYBERSECURITY -->
+<g>
+  <rect x="460" y="250" width="160" height="100" rx="10" fill="#1a0a0a" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="460" y="250" width="160" height="20" rx="10" fill="#3a0a0a"/><rect x="460" y="260" width="160" height="10" fill="#3a0a0a"/>
+  <text x="540" y="264" font-family="JetBrains Mono,monospace" font-size="7" fill="#fca5a5" text-anchor="middle" font-weight="bold">🛡 CYBERSECURITY</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="475" y="284">▸ Ethical Hacking</text><text x="475" y="300">▸ Web App Security</text><text x="475" y="316">▸ Pentest Basics</text><text x="475" y="332" fill="#64748b">Learning</text>
+  </g>
+</g>
+<!-- AI -->
+<g>
+  <rect x="660" y="250" width="140" height="100" rx="10" fill="#1a0a2e" stroke="#a855f7" stroke-width="1.2"/>
+  <rect x="660" y="250" width="140" height="20" rx="10" fill="#2e1065"/><rect x="660" y="260" width="140" height="10" fill="#2e1065"/>
+  <text x="730" y="264" font-family="JetBrains Mono,monospace" font-size="7" fill="#d8b4fe" text-anchor="middle" font-weight="bold">🤖 AI</text>
+  <g font-family="JetBrains Mono,monospace" font-size="7" fill="#cbd5e1">
+    <text x="675" y="284">▸ Gemini API</text><text x="675" y="300">▸ Generative AI</text><text x="675" y="316">▸ AI Tools</text><text x="675" y="332" fill="#64748b">Exploring</text>
+  </g>
+</g>
+<!-- Right side: TECH INVENTORY preview (compact) -->
+<g>
+  <rect x="860" y="98" width="320" height="252" rx="10" fill="#050a18" stroke="#1e3a5f" stroke-width="1.2"/>
+  <text x="1020" y="118" font-family="JetBrains Mono,monospace" font-size="8" fill="#fbbf24" text-anchor="end" letter-spacing="0.8">🎒 TECH INVENTORY</text>
+  <line x1="870" y1="128" x2="1170" y2="128" stroke="#1e3a5f" stroke-width="1" opacity="0.5"/>
+  <g font-family="JetBrains Mono,monospace" font-size="6.5">
+    <text x="875" y="146" fill="#f59e0b" font-weight="bold">⚔ WEAPONS (CODE)</text>
+    <text x="875" y="160" fill="#cbd5e1">React  •  Laravel  •  Node.js  •  JavaScript</text>
+    <text x="875" y="180" fill="#06b6d4" font-weight="bold">🛡 ARMOR (INFRA)</text>
+    <text x="875" y="194" fill="#cbd5e1">Docker  •  Nginx  •  Cloudflare Tunnel</text>
+    <text x="875" y="214" fill="#38bdf8" font-weight="bold">☁ ARTIFACTS (CLOUD)</text>
+    <text x="875" y="228" fill="#cbd5e1">AWS  •  Azure  •  Google Cloud</text>
+    <text x="875" y="248" fill="#a855f7" font-weight="bold">🤖 POTIONS (AI)</text>
+    <text x="875" y="262" fill="#cbd5e1">Gemini API  •  Claude  •  DeepSeek  •  ChatGPT</text>
+    <text x="875" y="282" fill="#eab308" font-weight="bold">🗄 STORAGE (DATA)</text>
+    <text x="875" y="296" fill="#cbd5e1">MySQL  •  PostgreSQL  •  Redis</text>
+    <text x="875" y="318" fill="#475569" font-size="5.5">RPG progression • visual only • not skill ratings</text>
+  </g>
+  <!-- icons row -->
+  <g opacity="0.9">
+    <circle cx="875" cy="335" r="10" fill="#0f1f3a" stroke="#38bdf8" stroke-width="1"/><text x="875" y="339" font-size="8" text-anchor="middle">⚛</text>
+    <circle cx="902" cy="335" r="10" fill="#0f1f3a" stroke="#ef4444" stroke-width="1"/><text x="902" y="339" font-size="7" text-anchor="middle">◈</text>
+    <circle cx="929" cy="335" r="10" fill="#0f1f3a" stroke="#22c55e" stroke-width="1"/><text x="929" y="339" font-size="8" text-anchor="middle">⬢</text>
+    <circle cx="956" cy="335" r="10" fill="#0f1f3a" stroke="#06b6d4" stroke-width="1"/><text x="956" y="339" font-size="8" text-anchor="middle">🐳</text>
+  </g>
+</g>
+<!-- Bottom note -->
+<rect x="16" y="380" width="1168" height="48" rx="8" fill="#050a18" stroke="#1e3a5f" stroke-opacity="0.5" stroke-width="1"/>
+<text x="600" y="398" font-family="JetBrains Mono,monospace" font-size="6.5" fill="#475569" text-anchor="middle">Skill tree reflects interests &amp; exposure from CV • Terms like “Learning / Exploring / Familiar” indicate ongoing growth — not expert mastery • Based on actual project &amp; homelab experience</text>
+<g font-family="JetBrains Mono,monospace" font-size="6">
+  <text x="60" y="418" fill="#38bdf8">● FRONTEND</text><text x="160" y="418" fill="#22c55e">● BACKEND</text><text x="250" y="418" fill="#f59e0b">● DATABASE</text><text x="340" y="418" fill="#06b6d4">● DEVOPS</text><text x="420" y="418" fill="#38bdf8">● CLOUD</text><text x="500" y="418" fill="#22c55e">● NETWORK</text><text x="600" y="418" fill="#ef4444">● CYBERSECURITY</text><text x="720" y="418" fill="#a855f7">● AI</text>
+</g>
+<!-- Glowing dots -->
+<g>
+  <circle cx="200" cy="98" r="4" fill="#38bdf8"><animate attributeName="r" values="4;5;4" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="400" cy="98" r="4" fill="#22c55e"><animate attributeName="r" values="4;5;4" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="98" r="4" fill="#f59e0b"><animate attributeName="r" values="4;5;4" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <circle cx="800" cy="98" r="4" fill="#06b6d4"><animate attributeName="r" values="4;5;4" dur="2s" begin="0.9s" repeatCount="indefinite"/></circle>
+</g>
+</svg>

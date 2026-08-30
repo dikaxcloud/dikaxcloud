@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Homelab Architecture">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a162c"/><stop offset="100%" stop-color="#0f0b1e"/></linearGradient>
+  <linearGradient id="tunnelGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#f59e0b"/><stop offset="100%" stop-color="#ef4444"/></linearGradient>
+</defs>
+<rect width="1200" height="380" rx="14" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1.8"/>
+<rect x="0" y="0" width="1200" height="36" rx="14" fill="#0f1f3a"/>
+<rect x="0" y="22" width="1200" height="14" fill="#0f1f3a"/>
+<text x="20" y="23" font-family="JetBrains Mono,monospace" font-size="10" fill="#22c55e" letter-spacing="1">◆ HOMELAB QUEST — SELF-HOST INFRASTRUCTURE</text>
+<text x="1160" y="23" font-family="JetBrains Mono,monospace" font-size="7" fill="#475569" text-anchor="end">Docker • Cloudflare Tunnel • Telegram Alerting</text>
+<!-- Flow diagram -->
+<g>
+  <!-- Internet -->
+  <g>
+    <rect x="80" y="70" width="170" height="80" rx="12" fill="#0b1e3a" stroke="#38bdf8" stroke-width="1.5"/>
+    <text x="165" y="92" font-family="JetBrains Mono,monospace" font-size="24" text-anchor="middle">☁</text>
+    <text x="165" y="118" font-family="JetBrains Mono,monospace" font-size="8" fill="#7dd3fc" text-anchor="middle" font-weight="bold">INTERNET</text>
+    <text x="165" y="132" font-family="JetBrains Mono,monospace" font-size="6" fill="#64748b" text-anchor="middle">Global Access</text>
+  </g>
+  <!-- Arrow 1 -->
+  <g>
+    <line x1="250" y1="110" x2="340" y2="110" stroke="#38bdf8" stroke-width="2" stroke-dasharray="6 3" opacity="0.8">
+      <animate attributeName="stroke-dashoffset" values="0;9" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+    <polygon points="340,110 332,104 332,116" fill="#38bdf8"/>
+    <rect x="268" y="120" width="54" height="12" rx="6" fill="#050a18" stroke="#1e3a5f" stroke-width="1"/><text x="295" y="128.5" font-family="JetBrains Mono,monospace" font-size="5" fill="#94a3b8" text-anchor="middle">HTTPS</text>
+  </g>
+  <!-- Cloudflare Tunnel -->
+  <g>
+    <rect x="350" y="60" width="190" height="100" rx="12" fill="#1a0a0a" stroke="#f59e0b" stroke-width="1.5"/>
+    <rect x="350" y="60" width="190" height="22" rx="12" fill="#2a1200"/><rect x="350" y="70" width="190" height="12" fill="#2a1200"/>
+    <text x="445" y="75" font-family="JetBrains Mono,monospace" font-size="7" fill="#fde68a" text-anchor="middle" font-weight="bold">☁ CLOUDFLARE TUNNEL</text>
+    <text x="445" y="100" font-size="20" text-anchor="middle">🔐</text>
+    <text x="445" y="122" font-family="JetBrains Mono,monospace" font-size="6.5" fill="#94a3b8" text-anchor="middle">Secure Exposure</text>
+    <text x="445" y="134" font-family="JetBrains Mono,monospace" font-size="5.5" fill="#f59e0b" text-anchor="middle">No port-forwarding</text>
+    <circle cx="520" cy="72" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- Arrow 2 -->
+  <g>
+    <line x1="540" y1="110" x2="620" y2="110" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6 3" opacity="0.8">
+      <animate attributeName="stroke-dashoffset" values="0;9" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+    <polygon points="620,110 612,104 612,116" fill="#f59e0b"/>
+  </g>
+  <!-- Homelab -->
+  <g>
+    <rect x="630" y="60" width="210" height="100" rx="12" fill="#0a1a0f" stroke="#22c55e" stroke-width="1.5"/>
+    <rect x="630" y="60" width="210" height="22" rx="12" fill="#0f2a14"/><rect x="630" y="70" width="210" height="12" fill="#0f2a14"/>
+    <text x="735" y="75" font-family="JetBrains Mono,monospace" font-size="7" fill="#86efac" text-anchor="middle" font-weight="bold">🏠 HOMELAB</text>
+    <g>
+      <rect x="660" y="92" width="70" height="50" rx="6" fill="#050a18" stroke="#1e3a5f" stroke-width="1"/>
+      <rect x="670" y="100" width="50" height="4" rx="1" fill="#22c55e" opacity="0.8"/><rect x="670" y="108" width="50" height="4" rx="1" fill="#22c55e" opacity="0.6"/><rect x="670" y="116" width="50" height="4" rx="1" fill="#22c55e" opacity="0.4"/>
+      <circle cx="710" cy="130" r="3" fill="#22c55e"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="770" y="108" font-family="JetBrains Mono,monospace" font-size="14" text-anchor="middle">🐳</text>
+    <text x="770" y="126" font-family="JetBrains Mono,monospace" font-size="7" fill="#67e8f9" text-anchor="middle" font-weight="bold">DOCKER</text>
+    <text x="770" y="138" font-family="JetBrains Mono,monospace" font-size="6" fill="#64748b" text-anchor="middle">Self-hosted</text>
+  </g>
+  <!-- Branches down -->
+  <line x1="735" y1="160" x2="735" y2="190" stroke="#475569" stroke-width="1.5"/>
+  <line x1="560" y1="190" x2="910" y2="190" stroke="#475569" stroke-width="1.5"/>
+  <line x1="560" y1="190" x2="560" y2="220" stroke="#475569" stroke-width="1.5"/>
+  <line x1="735" y1="190" x2="735" y2="220" stroke="#475569" stroke-width="1.5"/>
+  <line x1="910" y1="190" x2="910" y2="220" stroke="#475569" stroke-width="1.5"/>
+  <!-- 3 bottom nodes -->
+  <g>
+    <rect x="470" y="220" width="180" height="110" rx="10" fill="#0b1e3a" stroke="#38bdf8" stroke-width="1.2"/>
+    <text x="560" y="240" font-family="JetBrains Mono,monospace" font-size="7" fill="#7dd3fc" text-anchor="middle" font-weight="bold">🌐 WEB APPS</text>
+    <g font-family="JetBrains Mono,monospace" font-size="6.5" fill="#cbd5e1">
+      <text x="485" y="258">• dik-ai-agent.web.id</text><text x="485" y="272">• internet-stabil.web.id</text><text x="485" y="286">• darahkita.web.id</text><text x="485" y="300">• moneyku-telegram.web.id</text><text x="485" y="314">• contoh-web-jualan.my.id</text>
+    </g>
+  </g>
+  <g>
+    <rect x="660" y="220" width="150" height="110" rx="10" fill="#1a0a2e" stroke="#a855f7" stroke-width="1.2"/>
+    <text x="735" y="240" font-family="JetBrains Mono,monospace" font-size="7" fill="#d8b4fe" text-anchor="middle" font-weight="bold">🤖 AI AGENT</text>
+    <text x="735" y="262" font-size="22" text-anchor="middle">🤖</text>
+    <g font-family="JetBrains Mono,monospace" font-size="6.5" fill="#cbd5e1" text-anchor="middle">
+      <text x="735" y="284">Container Monitor</text><text x="735" y="296">Gemini CLI • Docker</text><text x="735" y="308">Health Checks</text><text x="735" y="320" fill="#22c55e">● Active</text>
+    </g>
+  </g>
+  <g>
+    <rect x="820" y="220" width="180" height="110" rx="10" fill="#0f1f3a" stroke="#22c55e" stroke-width="1.2"/>
+    <text x="910" y="240" font-family="JetBrains Mono,monospace" font-size="7" fill="#86efac" text-anchor="middle" font-weight="bold">📊 MONITORING</text>
+    <text x="910" y="262" font-size="22" text-anchor="middle">📈</text>
+    <g font-family="JetBrains Mono,monospace" font-size="6.5" fill="#cbd5e1" text-anchor="middle">
+      <text x="910" y="284">Docker Health</text><text x="910" y="296">Alerting System</text><text x="910" y="308">Telegram Bot</text><text x="910" y="320" fill="#38bdf8">Real-time</text>
+    </g>
+  </g>
+  <!-- bottom arrow to telegram -->
+  <line x1="735" y1="330" x2="735" y2="350" stroke="#475569" stroke-width="1.5"/>
+  <polygon points="735,350 729,342 741,342" fill="#475569"/>
+</g>
+<!-- Bottom Telegram bar -->
+<g>
+  <rect x="480" y="352" width="240" height="20" rx="10" fill="#0a162c" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="600" y="365" font-family="JetBrains Mono,monospace" font-size="7" fill="#7dd3fc" text-anchor="middle">📱 TELEGRAM — Real-time Alerts &amp; Bot Interaction</text>
+</g>
+<!-- Data flow particles -->
+<g opacity="0.9">
+  <circle cx="295" cy="110" r="3" fill="#38bdf8"><animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+  <path id="p1" d="M 0 0 L 90 0" fill="none"/>
+</g>
+</svg>

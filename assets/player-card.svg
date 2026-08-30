@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Player Profile Card">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a162c"/><stop offset="100%" stop-color="#0f0b1e"/></linearGradient>
+  <linearGradient id="lvlGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#a855f7"/></linearGradient>
+</defs>
+<rect width="640" height="360" rx="14" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1.8"/>
+<rect width="640" height="360" rx="14" fill="none" stroke="#00e5ff" stroke-opacity="0.06" stroke-width="2"/>
+<!-- Header -->
+<rect x="0" y="0" width="640" height="32" rx="14" fill="#0f1f3a"/>
+<rect x="0" y="18" width="640" height="14" fill="#0f1f3a"/>
+<text x="16" y="21" font-family="JetBrains Mono,monospace" font-size="9" fill="#00e5ff" letter-spacing="1">◆ PLAYER PROFILE</text>
+<circle cx="620" cy="16" r="4" fill="#00ff88"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+<!-- Avatar box -->
+<rect x="16" y="46" width="140" height="140" rx="10" fill="#050a18" stroke="#1e3a5f" stroke-width="1.2"/>
+<!-- pixel avatar -->
+<g>
+  <rect x="46" y="58" width="80" height="80" rx="12" fill="#1e3a5f"/>
+  <!-- head -->
+  <rect x="66" y="68" width="40" height="34" rx="8" fill="#f0c9a8"/>
+  <path d="M 64 82 Q 66 58 86 56 Q 102 56 108 82 L 64 82 Z" fill="#0f0f0f"/>
+  <rect x="72" y="82" width="28" height="4" rx="2" fill="#0f0f0f"/>
+  <ellipse cx="78" cy="88" rx="3" ry="3" fill="#0f0f0f"/><ellipse cx="94" cy="88" rx="3" ry="3" fill="#0f0f0f"/>
+  <circle cx="79" cy="86.5" r="0.9" fill="#fff"/><circle cx="95" cy="86.5" r="0.9" fill="#fff"/>
+  <!-- body -->
+  <rect x="62" y="104" width="48" height="28" rx="6" fill="#1e3a5f"/>
+  <rect x="54" y="108" width="14" height="20" rx="5" fill="#1e3a5f"/><rect x="104" y="108" width="14" height="20" rx="5" fill="#1e3a5f"/>
+  <rect x="68" y="118" width="36" height="2" fill="#00e5ff" opacity="0.6"/>
+</g>
+<text x="86" y="172" font-family="JetBrains Mono,monospace" font-size="6" fill="#475569" text-anchor="middle">LVL 07 • NEW ADVENTURER</text>
+<!-- Details -->
+<g font-family="JetBrains Mono,monospace">
+  <text x="174" y="62" font-size="7" fill="#a855f7" letter-spacing="0.8">CLASS</text>
+  <text x="174" y="76" font-size="10" fill="#fff" font-weight="bold">Fullstack Developer</text>
+  <text x="174" y="96" font-size="7" fill="#a855f7" letter-spacing="0.8">STATUS</text>
+  <text x="174" y="110" font-size="9" fill="#e9d5ff">Informatics Student 🎓</text>
+  <text x="174" y="130" font-size="7" fill="#a855f7" letter-spacing="0.8">TITLE</text>
+  <text x="174" y="144" font-size="8" fill="#94a3b8">Cloud Enthusiast</text>
+  <text x="174" y="156" font-size="8" fill="#94a3b8">Network Engineer</text>
+  <text x="174" y="176" font-size="7" fill="#a855f7" letter-spacing="0.8">LOCATION</text>
+  <text x="174" y="190" font-size="8" fill="#94a3b8">Cirebon, Jawa Barat</text>
+  <!-- Level bars -->
+  <text x="360" y="62" font-size="7" fill="#64748b">SPECIALIZATION</text>
+  <g font-size="7.5" fill="#cbd5e1">
+    <text x="360" y="80" fill="#00e5ff">⚔ Software Dev</text><rect x="360" y="86" width="120" height="6" rx="3" fill="#1e293b"/><rect x="360" y="86" width="90" height="6" rx="3" fill="#00e5ff" opacity="0.9"/>
+    <text x="360" y="106" fill="#38bdf8">☁ Cloud</text><rect x="360" y="112" width="120" height="6" rx="3" fill="#1e293b"/><rect x="360" y="112" width="75" height="6" rx="3" fill="#38bdf8"/>
+    <text x="360" y="132" fill="#22c55e">🌐 Network</text><rect x="360" y="138" width="120" height="6" rx="3" fill="#1e293b"/><rect x="360" y="138" width="100" height="6" rx="3" fill="#22c55e"/>
+    <text x="360" y="158" fill="#a855f7">🤖 AI</text><rect x="360" y="164" width="120" height="6" rx="3" fill="#1e293b"/><rect x="360" y="164" width="62" height="6" rx="3" fill="#a855f7"/>
+    <text x="360" y="184" fill="#f59e0b">🛡 Security</text><rect x="360" y="190" width="120" height="6" rx="3" fill="#1e293b"/><rect x="360" y="190" width="62" height="6" rx="3" fill="#f59e0b"/>
+  </g>
+</g>
+<!-- Bottom stats -->
+<g>
+  <rect x="16" y="200" width="608" height="1" fill="#1e3a5f" opacity="0.5"/>
+  <g font-family="JetBrains Mono,monospace" font-size="7">
+    <rect x="16" y="212" width="195" height="66" rx="8" fill="#050a18" stroke="#1e3a5f" stroke-width="1"/>
+    <text x="26" y="228" fill="#64748b">🌐 WEBSITE</text><text x="26" y="244" fill="#00e5ff" font-size="8">dikaxcloud.web.id</text><text x="26" y="262" fill="#475569">↗ Click to visit</text>
+    <rect x="222" y="212" width="195" height="66" rx="8" fill="#050a18" stroke="#1e3a5f" stroke-width="1"/>
+    <text x="232" y="228" fill="#64748b">📧 EMAIL</text><text x="232" y="244" fill="#cbd5e1" font-size="7">andhikapratamaputra@gmail.com</text><text x="232" y="262" fill="#475569">Available for contact</text>
+    <rect x="428" y="212" width="196" height="66" rx="8" fill="#0f1f3a" stroke="#a855f7" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="438" y="228" fill="#a855f7">🎓 UNIVERSITY ARC</text><text x="438" y="244" fill="#fff" font-size="7.5">Universitas Mercu Buana</text><text x="438" y="256" fill="#e9d5ff" font-size="7">Bachelor of Informatics</text><text x="438" y="268" fill="#22c55e" font-size="7">● IN PROGRESS — Aug 2026</text>
+  </g>
+</g>
+<!-- Footer hint -->
+<text x="320" y="302" font-family="JetBrains Mono,monospace" font-size="6" fill="#334155" text-anchor="middle" letter-spacing="0.5">RPG progression bars are visual • not skill ratings  •  Always Learning • Always Building</text>
+<!-- Level badge -->
+<g>
+  <rect x="510" y="46" width="110" height="72" rx="10" fill="#111f3a" stroke="#fbbf24" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="565" y="64" font-family="JetBrains Mono,monospace" font-size="7" fill="#fbbf24" text-anchor="middle" letter-spacing="1">LEVEL</text>
+  <text x="565" y="90" font-family="JetBrains Mono,monospace" font-size="26" fill="#fff" font-weight="900" text-anchor="middle">07</text>
+  <text x="565" y="105" font-family="JetBrains Mono,monospace" font-size="6.5" fill="#94a3b8" text-anchor="middle">NEW ADVENTURER</text>
+</g>
+</svg>
