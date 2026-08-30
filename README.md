@@ -1,124 +1,124 @@
-﻿<!--- PROFILE README — ANDHIKA PRATAMA PUTRA — PIXEL-PERFECT DASHBOARD --->
-<!--- Source: ref.png / referensi.png — exact replica --->
-<!--- CONFIG: GITHUB_USERNAME=dikaxcloud | WEBSITE=dikaxcloud.web.id | EMAIL=andhikapratamaputra@gmail.com --->
+﻿<!--- PROFILE README — ANDHIKA PRATAMA PUTRA — PECAHAN REF.PNG — PIXEL-PERFECT + ANIMATED --->
+<!--- Setiap panel di bawah adalah crop persis dari ref.png (1536×1024) + animasi SVG overlay --->
+<!--- Disusun vertikal sebagai "halaman" — sesuai request: dipecah jadi beberapa halaman --->
 
+<!-- HALAMAN 1 — PERKENALAN / HERO -->
 <p align="center">
-  <img src="./assets/dashboard.png" alt="Andhika Pratama Putra — Developer RPG × Cyberpunk × Pixel Art — Full Dashboard — Andhika Pratama Putra Fullstack Developer Cloud Enthusiast Network Engineer — University Arc" width="100%" />
+  <img src="./assets/panels/hero.svg" alt="Halaman Perkenalan — ANDHIKA PRATAMA PUTRA — FULLSTACK DEVELOPER — CLOUD ENTHUSIAST — NETWORK ENGINEER — Journey Progress 65%" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://dikaxcloud.web.id"><img src="https://img.shields.io/badge/WEB-dikaxcloud.web.id-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:andhikapratamaputra@gmail.com"><img src="https://img.shields.io/badge/EMAIL-andhikapratamaputra@gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/dikaxcloud"><img src="https://img.shields.io/badge/GITHUB-dikaxcloud-0a162c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/📍_Cirebon,_Jawa_Barat-22c55e?style=for-the-badge" alt="Location"/>
 </p>
-
-> **Pixel-perfect replica of `ref.png` / `referensi.png`** — karakter, warna, layout, panel, dan tipografi dibuat **sama persis** dengan file referensi. Gambar di atas adalah export 1:1 dari desain referensi (2180px, cyberpunk city, pixel character, castle, quest cards) — bukan approximasi SVG.
 
 ---
 
+<!-- HALAMAN 2 — PLAYER PROFILE + STATUS -->
+### 👤 Halaman 2 — Player Profile
+<table>
+<tr>
+<td width="50%" valign="top"><img src="./assets/panels/player-profile.svg" alt="Player Profile — Class Fullstack Developer, Status Informatics Student, Title Cloud Enthusiast Network Engineer, Location Cirebon, Website dikaxcloud.web.id" width="100%" /></td>
+<td width="50%" valign="top"><img src="./assets/panels/player-status.svg" alt="Player Status — LVL 07 New Adventurer — EXP 78% HP 100/100 ENERGY 80/100 FOCUS 90/100" width="100%" /></td>
+</tr>
+</table>
+
+<!-- HALAMAN 3 — CURRENT MISSION -->
+### 🎯 Halaman 3 — Current Mission
+<p align="center"><img src="./assets/panels/current-mission.svg" alt="Current Mission — UNIVERSITY ARC — Universitas Mercu Buana Bachelor of Informatics Aug 2026 Present — Status In Progress" width="100%" /></p>
+
+<!-- HALAMAN 4 — ABOUT ME -->
+### 📖 Halaman 4 — About Me
+<p align="center"><img src="./assets/panels/about-me.svg" alt="About Me — Graduate SMK TKJ, now Informatics Student, homelab Docker Cloudflare Tunnel, Always learning" width="100%" /></p>
+
+<!-- HALAMAN 5 — QUEST LOG -->
+### ⚔️ Halaman 5 — Quest Log (Projects)
+<p align="center"><img src="./assets/panels/quest-log.svg" alt="Quest Log — 5 Active Quests — AI Container Monitoring, ISP NOC Monitoring, DarahKita Team Leader, WebFinance, WebCraft" width="100%" /></p>
+
+<!-- HALAMAN 6 — SKILL TREE + TECH INVENTORY -->
+### 🧠 Halaman 6 — Skill Tree & Tech Inventory
+<table>
+<tr>
+<td width="58%" valign="top"><img src="./assets/panels/skill-tree.svg" alt="Skill Tree — Software Engineering — Frontend Backend Database DevOps Cloud Network Cybersecurity AI" width="100%" /></td>
+<td width="42%" valign="top"><img src="./assets/panels/tech-inventory.svg" alt="Tech Inventory — Weapons React Laravel Node JS, Armor Docker Nginx Cloudflare, Artifacts AWS Azure GCP, Potions Gemini Claude, Storage MySQL PostgreSQL Redis" width="100%" /></td>
+</tr>
+</table>
+
+<!-- HALAMAN 7 — DEVELOPER JOURNEY -->
+### 🗺️ Halaman 7 — Developer Journey
+<p align="center"><img src="./assets/panels/developer-journey.svg" alt="Developer Journey — SMK TKJ Graduated May 2026 → Technician Support Jul-Sep 2025 → NOC Experience Oct-Dec 2025 → Fullstack Development → Cloud & AI Exploration → University Arc Aug 2026 Present → Next Adventure" width="100%" /></p>
+
+<!-- HALAMAN 8 — EDUCATION WALL -->
+### 🎓 Halaman 8 — Education
+<p align="center"><img src="./assets/panels/education-wall.svg" alt="Education Wall — Universitas Mercu Buana Bachelor of Informatics IN PROGRESS, SMK Informatika Al-Irsyad TKJ Graduated May 2026" width="100%" /></p>
+
+<!-- HALAMAN 9 — CAREER + TRAINING -->
+### 💼 Halaman 9 — Career & Training
+<table>
+<tr>
+<td width="50%" valign="top"><img src="./assets/panels/career-quests.svg" alt="Career Quests — NOC Defender Oct-Dec 2025, Field Technician Jul-Sep 2025 — PT Internet Keluarga" width="100%" /></td>
+<td width="50%" valign="top"><img src="./assets/panels/training-arc.svg" alt="Training Arc — Orbit Future Academy AWS reStart IN PROGRESS, Coding Camp Dicoding COMPLETED 100% Team Leader DarahKita" width="100%" /></td>
+</tr>
+</table>
+
+<!-- HALAMAN 10 — ACHIEVEMENT + HOMELAB -->
+### 🏆 Halaman 10 — Achievements & Homelab
+<table>
+<tr>
+<td width="55%" valign="top"><img src="./assets/panels/achievement-wall.svg" alt="Achievement Wall — 8 Unlocked — Fullstack Builder, NOC Defender, Network Warrior, Container Tamer, Cloud Explorer, AI Explorer, Team Leader, University Arc Unlocked, Security Apprentice" width="100%" /></td>
+<td width="45%" valign="top"><img src="./assets/panels/homelab.svg" alt="Homelab Architecture — Internet → Cloudflare Tunnel → Homelab Docker Host → Web Apps AI Agent Monitoring Database → Telegram Bot" width="100%" /></td>
+</tr>
+</table>
+
+<!-- HALAMAN 11 — CERTIFICATION WALL -->
+### 📜 Halaman 11 — Certification Wall
+<p align="center"><img src="./assets/panels/certification-wall.svg" alt="Certification Wall — Cloud & AWS, Cybersecurity & Network, Web Development, AI & Productivity — 22 certs" width="100%" /></p>
+
+<!-- HALAMAN 12 — TERMINAL + GITHUB STATS + SNAKE -->
+### 💻 Halaman 12 — Terminal & Guild Stats
+<table>
+<tr>
+<td width="36%" valign="top"><img src="./assets/panels/terminal.svg" alt="Terminal — andhika@homelab whoami Fullstack Developer Informatics Student, current_mission Build Learn Experiment Deploy" width="100%" /></td>
+<td width="32%" valign="top"><img src="./assets/panels/github-stats.svg" alt="GitHub Stats — Repositories, Contributions, Stars, Streak, Following" width="100%" /></td>
+<td width="32%" valign="top"><img src="./assets/panels/contribution-snake.svg" alt="Contribution Snake — Keep pushing The path grows every day" width="100%" /></td>
+</tr>
+</table>
+
+<!-- DYNAMIC STATS (live) -->
+<p align="center">
+  <a href="https://github.com/dikaxcloud"><img src="https://github-readme-stats.vercel.app/api?username=dikaxcloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a162c&title_color=00e5ff&text_color=cbd5e1&icon_color=a855f7" width="48%" alt="GitHub Stats Live"/></a>
+  <a href="https://github.com/dikaxcloud"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaxcloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a162c&title_color=00e5ff&text_color=cbd5e1" width="48%" alt="Top Langs Live"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/dikaxcloud"><img src="https://raw.githubusercontent.com/dikaxcloud/dikaxcloud/output/github-contribution-grid-snake.svg" alt="Contribution Snake Live — generated by Actions" width="100%"/></a>
+</p>
+
+<!-- HALAMAN 13 — FINAL BOSS -->
+### 🏰 Halaman 13 — Final Boss
+<p align="center"><img src="./assets/panels/final-boss.svg" alt="Final Boss — BUILD SOMETHING GREAT — Let's build the next adventure together — castle with dragon" width="100%" /></p>
+
+<p align="center">
+  <a href="https://dikaxcloud.web.id"><img src="https://img.shields.io/badge/WEBSITE-dikaxcloud.web.id-00e5ff?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:andhikapratamaputra@gmail.com"><img src="https://img.shields.io/badge/EMAIL-andhikapratamaputra@gmail.com-a855f7?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/dikaxcloud"><img src="https://img.shields.io/badge/GITHUB-dikaxcloud-0a162c?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/andhika-pratama-putra9808"><img src="https://img.shields.io/badge/LINKEDIN-andhika--pratama--putra9808-0ea5e9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+<!-- FALLBACK — full dashboard image + text for SEO -->
 <details>
-<summary>📖 Text fallback — untuk recruiter, ATS, dan mobile (jangan hanya mengandalkan gambar)</summary>
+<summary>📄 Lihat dashboard penuh 1 halaman (ref.png original) + text fallback untuk recruiter</summary>
+<p align="center"><img src="./assets/dashboard.png" alt="Dashboard penuh 1 halaman — ref.png original 1536×1024" width="100%" /></p>
 
-### Identity
-**Andhika Pratama Putra** — Cirebon, Jawa Barat — Bachelor of Informatics @ Universitas Mercu Buana (Aug 2026–Present) — Graduate SMK Informatika Al-Irsyad — TKJ (May 2026) — Fullstack Developer (Building) • Cloud Enthusiast (Exploring) • Network Engineer (Experience) • AI Explorer • DevOps Builder • Cybersecurity Enthusiast
+**Text fallback — biar ATS & mobile tetap baca:**
 
-### About Me
-Graduate of SMK majoring in Computer & Network Engineering (TKJ), now pursuing Bachelor's degree in Informatics at Universitas Mercu Buana. Passionate about building web applications, exploring cloud infrastructure, networking, cybersecurity, and AI. Runs personal homelab using Docker to self-host web applications and expose via Cloudflare Tunnel. Always learning, always building.
-
-### Quest Log — 5 Active Quests
-1. **AI Container Monitoring Agent** — dik-ai-agent.web.id — Telegram Bot + Gemini CLI + Docker + health monitoring — COMPLETED
-2. **ISP Complaint System NOC Monitoring** — internet-stabil.web.id — Laravel 11 + React SPA + PostgreSQL + Redis + Docker + Cloudflare Tunnel — NOC INFRASTRUCTURE QUEST — COMPLETED
-3. **DarahKita Capstone** — darahkita.web.id — Social impact blood donor platform — TEAM LEADER — COMPLETED
-4. **WebFinance AI Finance Manager** — moneyku-telegram.web.id — Telegram Bot + AI categorization — COMPLETED
-5. **WebCraft SaaS Web & POS** — contoh-web-jualan.my.id — Multi-tenant SaaS — ACTIVE
-
-### Skill Tree — Software Engineering
-Frontend: React.js JavaScript HTML CSS • Backend: Node.js Laravel REST API • Cloud: AWS Azure GCP • DevOps: Docker Nginx Cloudflare Tunnel • Database: MySQL PostgreSQL (Learning) Redis • Network: TCP/IP MikroTik NOC Monitoring Troubleshooting • Cybersecurity: Ethical Hacking Web App Security Pentest • AI: Gemini API Generative AI
-
-### Tech Inventory
-WEAPONS: React Laravel Node.js JavaScript • ARMOR: Docker Nginx Cloudflare Tunnel • ARTIFACTS: AWS Azure GCP • POTIONS: Gemini API Claude OpenCode Deepseek ChatGPT • STORAGE: MySQL PostgreSQL Redis
-
-### Developer Journey
-SMK TKJ (May 2026) → Technician Support (Jul-Sep 2025) → NOC Experience (Oct-Dec 2025) → Fullstack Development → Cloud & AI Exploration → University Arc (Aug 2026–Present) → ??? Next Adventure
-
-### Education
-Universitas Mercu Buana — Bachelor of Informatics — Aug 2026–Present — IN PROGRESS
-SMK Informatika Al-Irsyad Al-Islamiyyah — TKJ — Graduated May 2026
-
-### Career Quests
-**NOC Defender** — PT Internet Keluarga — Oct-Dec 2025 — real-time network & server monitoring, incident docs, reports, troubleshooting
-**Field Technician** — PT Internet Keluarga — Jul-Sep 2025 — on-site install, Router/AP/Modem, infrastructure, NOC coordination
-
-### Training Arc
-**Orbit Future Academy — AWS re/Start** — Aug-Sep 2026 — IN PROGRESS — Linux Python Networking Cybersecurity SQL AWS CLI EC2 VPC ELB Auto Scaling CloudWatch Containers Agile
-**Coding Camp — Dicoding** — Jan-Apr 2026 — HTML CSS JS React Node.js REST API Database Git GitHub Clean Code — TEAM LEADER DarahKita
-
-### Certification Wall — 22 total
-Cloud & AWS (3) • Cybersecurity & Network (8): MTCNA, MikroTik Olympiad 2024, Ethical Hacker Cisco, CJWAPT, CCEP/CRTOM/CTIGA/CRPO • Web Development (6) • AI & Productivity (5)
-
-### Homelab Architecture
-Internet → Cloudflare Tunnel → Homelab (Docker Host) → Web Apps / AI Agent / Monitoring / Database → Telegram Bot
-
-### Terminal
-`whoami` → Fullstack Developer • Cloud Enthusiast • Network Engineer • Informatics Student
-`current_mission` → Build. Learn. Experiment. Deploy.
-
-### Contact — verified
-Website: https://dikaxcloud.web.id • Email: andhikapratamaputra@gmail.com • GitHub: dikaxcloud • LinkedIn: in/andhika-pratama-putra9808
+Andhika Pratama Putra — Fullstack Developer • Cloud Enthusiast • Network Engineer — Cirebon — dikaxcloud.web.id — andhikapratamaputra@gmail.com — Universitas Mercu Buana Bachelor of Informatics Aug 2026 Present — SMK TKJ May 2026 — PT Internet Keluarga NOC Oct-Dec 2025 Technician Jul-Sep 2025 — 5 Quests: dik-ai-agent.web.id, internet-stabil.web.id, darahkita.web.id (Team Leader), moneyku-telegram.web.id, contoh-web-jualan.my.id — Homelab Docker Cloudflare Tunnel Telegram — Certs 22 — Achievements 8
 
 </details>
 
----
-
-<!-- SVG Panels tetap ada untuk performa & fallback vector — tapi visual utama sekarang 100% persis PNG referensi -->
 <p align="center">
-  <sub>Jika PNG di atas tidak load (rare), panel SVG di bawah adalah fallback vector dengan layout yang sama:</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Hero fallback"/>
-</p>
-
-<table>
-<tr>
-<td width="33%"><img src="./assets/player-card.svg" width="100%" alt="Player Profile fallback"/></td>
-<td width="34%"><img src="./assets/about-me.svg" width="100%" alt="About Me fallback"/></td>
-<td width="33%"><img src="./assets/current-mission.svg" width="100%" alt="Current Mission fallback"/></td>
-</tr>
-</table>
-
-<p align="center"><img src="./assets/quest-board.svg" width="100%" alt="Quest Log fallback"/></p>
-<p align="center"><img src="./assets/skill-tree.svg" width="100%" alt="Skill Tree fallback"/></p>
-
-<table>
-<tr>
-<td width="66%"><img src="./assets/developer-journey.svg" width="100%" alt="Developer Journey fallback"/></td>
-<td width="34%"><img src="./assets/education.svg" width="100%" alt="Education fallback"/></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%"><img src="./assets/career-quests.svg" width="100%" alt="Career Quests fallback"/></td>
-<td width="33%"><img src="./assets/training-arc.svg" width="100%" alt="Training Arc fallback"/></td>
-<td width="33%"><img src="./assets/achievements.svg" width="100%" alt="Achievements fallback"/></td>
-</tr>
-</table>
-
-<p align="center"><img src="./assets/certification-wall.svg" width="100%" alt="Certification Wall fallback"/></p>
-<p align="center"><img src="./assets/homelab.svg" width="100%" alt="Homelab fallback"/></p>
-<p align="center"><img src="./assets/terminal.svg" width="100%" alt="Terminal fallback"/></p>
-<p align="center"><img src="./assets/footer.svg" width="100%" alt="Final Boss fallback"/></p>
-
-<!-- Stats & Snake — dynamic -->
-<p align="center">
-  <a href="https://github.com/dikaxcloud"><img src="https://github-readme-stats.vercel.app/api?username=dikaxcloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a162c&title_color=00e5ff&text_color=cbd5e1&icon_color=a855f7" width="48%" alt="GitHub Stats"/></a>
-  <a href="https://github.com/dikaxcloud"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaxcloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a162c&title_color=00e5ff&text_color=cbd5e1" width="48%" alt="Top Langs"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/dikaxcloud"><img src="https://raw.githubusercontent.com/dikaxcloud/dikaxcloud/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/></a>
-</p>
-
-<p align="center">
-  <sub>Dashboard PNG = export persis dari <code>ref.png</code> — 2.1MB, optimized. SVG panels di bawah untuk fallback & text SEO. Thanks for visiting! Achievement Unlocked: Curious Developer 🏆</sub>
+  <sub>Setiap panel di atas adalah <b>crop persis</b> dari <code>ref.png</code> (1536×1024) — desain, karakter pixel-art, castle, warna neon, dan layout <b>sama persis</b>. Animasi ditambahkan via SVG overlay (blinking dot, glowing border). Dipecah jadi 13 halaman vertikal seperti request — halaman perkenalan di paling atas.</sub><br/>
+  <sub>Thanks for visiting! ★ Achievement Unlocked: Curious Developer</sub>
 </p>
