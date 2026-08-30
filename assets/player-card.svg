@@ -1,23 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" width="400" height="340" role="img" aria-label="Player Profile">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" width="400" height="340" role="img" aria-label="Player Profile">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a162c"/><stop offset="100%" stop-color="#0f0b1e"/></linearGradient></defs>
 <rect width="400" height="340" rx="12" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1.5"/>
 <rect x="0" y="0" width="400" height="28" rx="12" fill="#0f1f3a"/><rect x="0" y="18" width="400" height="10" fill="#0f1f3a"/>
 <text x="14" y="18" font-family="JetBrains Mono,monospace" font-size="8" fill="#00e5ff" letter-spacing="0.8">◆ PLAYER PROFILE</text><circle cx="384" cy="14" r="3.5" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
-<!-- avatar -->
 <rect x="14" y="38" width="110" height="110" rx="10" fill="#020617" stroke="#1e3a5f" stroke-width="1"/>
-<g transform="translate(34,48)">
-  <rect width="70" height="70" rx="10" fill="#0a162c" stroke="#1e3a5f" stroke-width="1"/>
-  <g transform="translate(15,6)" shape-rendering="crispEdges">
-    <!-- pixel avatar 40x58 — proporsional, tidak gepeng -->
-    <rect x="8" y="6" width="24" height="24" fill="#f0c9a8"/>
-    <rect x="6" y="4" width="28" height="12" fill="#0a0a0a"/><rect x="8" y="2" width="24" height="4" fill="#0a0a0a"/>
-    <rect x="12" y="14" width="4" height="4" fill="#020617"/><rect x="24" y="14" width="4" height="4" fill="#020617"/>
-    <rect x="13" y="15" width="1" height="1" fill="#fff" opacity="0.9"/><rect x="25" y="15" width="1" height="1" fill="#fff" opacity="0.9"/>
-    <rect x="6" y="30" width="28" height="18" fill="#1e3a5f"/><rect x="4" y="32" width="4" height="10" fill="#1e3a5f"/><rect x="32" y="32" width="4" height="10" fill="#1e3a5f"/>
-    <rect x="10" y="48" width="8" height="10" fill="#0f172a"/><rect x="22" y="48" width="8" height="10" fill="#0f172a"/>
-  </g>
-  <text x="35" y="66" font-family="JetBrains Mono,monospace" font-size="5" fill="#64748b" text-anchor="middle">LVL 07</text>
-</g>
+<image href="data:image/jpeg;base64,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" x="28" y="44" width="82" height="98" preserveAspectRatio="xMidYMid meet" style="image-rendering: pixelated;"/>
 <g font-family="JetBrains Mono,monospace">
   <text x="138" y="54" font-size="6.5" fill="#a855f7" letter-spacing="0.6">CLASS</text><text x="138" y="66" font-size="8.5" fill="#fff" font-weight="700">Fullstack Developer</text>
   <text x="138" y="84" font-size="6.5" fill="#a855f7">STATUS</text><text x="138" y="96" font-size="7.5" fill="#e9d5ff">Informatics Student 🎓</text>
@@ -25,7 +12,6 @@
   <text x="138" y="154" font-size="6.5" fill="#a855f7">LOCATION</text><text x="138" y="166" font-size="7" fill="#94a3b8">Cirebon, Jawa Barat</text>
 </g>
 <rect x="14" y="160" width="372" height="1" fill="#1e3a5f" opacity="0.5"/>
-<!-- specialization bars -->
 <g font-family="JetBrains Mono,monospace" font-size="6">
   <text x="14" y="176" fill="#64748b">SPECIALIZATION</text>
   <text x="14" y="190" fill="#00e5ff">⚔ Software Dev</text><rect x="14" y="194" width="372" height="6" rx="3" fill="#1e293b"/><rect x="14" y="194" width="260" height="6" rx="3" fill="#00e5ff"/>
@@ -33,7 +19,6 @@
   <text x="14" y="234" fill="#86efac">🌐 Network</text><rect x="14" y="238" width="372" height="6" rx="3" fill="#1e293b"/><rect x="14" y="238" width="280" height="6" rx="3" fill="#22c55e"/>
   <text x="14" y="256" fill="#d8b4fe">🤖 AI</text><rect x="14" y="260" width="372" height="6" rx="3" fill="#1e293b"/><rect x="14" y="260" width="160" height="6" rx="3" fill="#a855f7"/>
 </g>
-<!-- bottom cards -->
 <g font-family="JetBrains Mono,monospace" font-size="6">
   <rect x="14" y="278" width="118" height="48" rx="8" fill="#020617" stroke="#1e3a5f" stroke-width="1"/><text x="24" y="292" fill="#64748b">🌐 WEBSITE</text><text x="24" y="304" fill="#00e5ff" font-size="6.5">dikaxcloud.web.id</text>
   <rect x="141" y="278" width="118" height="48" rx="8" fill="#020617" stroke="#1e3a5f" stroke-width="1"/><text x="151" y="292" fill="#64748b">📧 EMAIL</text><text x="151" y="304" fill="#cbd5e1" font-size="5">andhikapratama...</text>
